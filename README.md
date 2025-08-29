@@ -1,1 +1,0 @@
-# 216023H_BigData_Individual_Assignment
